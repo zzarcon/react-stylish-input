@@ -1,6 +1,6 @@
 {
   "name": "react-stylish-input",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Custom styling for your file input",
   "main": "dist/index.js",
   "repository": "",
